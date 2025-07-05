@@ -19,7 +19,7 @@
 #                               USER CONFIGURATION
 # ============================================================================
 
-# Line 11: Set the username of the account you want to grant Full Control permissions.
+# Set the username of the account you want to grant Full Control permissions.
 # This user will gain administrative control over all protected AD accounts after SDProp runs.
 $AttackerUserName = "Your Target UserName" # <--- ONLY EDIT THIS LINE: Replace "AttackerUser" with your target username (e.g., "Alex")
 
